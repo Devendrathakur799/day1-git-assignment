@@ -1,3 +1,3 @@
-const appName = "Employee Management System";
+const appName = "EMS Login and Main Application";
 
 console.log(appName);
