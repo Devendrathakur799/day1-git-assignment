@@ -1,3 +1,3 @@
-const message = "Welcome to Dashboard";
+const message = "EMS Employee Dashboard";
 
 console.log(message);
